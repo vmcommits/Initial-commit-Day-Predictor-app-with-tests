@@ -1,6 +1,6 @@
 # 📅 Day Predictor
 
-A simple Python CLI app that predicts the day of the week for any given date.
+A simple Python CLI app that predicts the day of the week for any given date. Anyone who wants to get more features can contact me.
 
 ## 🚀 How to Run
 
